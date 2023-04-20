@@ -31,17 +31,6 @@ def enter_data():
         name1 = xml_for_networkx
         name2 = simu_for_ET
         
-        """
-        stoff1 = stoff1_combobox.get()
-        stoff2 = stoff2_combobox.get()
-        stoff3 = stoff3_combobox.get()
-        stoff4 = stoff4_combobox.get()
-        stoff5 = stoff5_combobox.get()
-        stoff6 = stoff6_combobox.get()
-        input_stoff__ = [stoff1, stoff2, stoff3, stoff4, stoff5, stoff6]
-        input_stoff_exist = [x for x in input_stoff__ if x]
-        print(input_stoff_exist)
-        """
         tkinter.messagebox.showinfo(title="Successful", message="You can close the window")
     else:
         tkinter.messagebox.showerror(title="Error", message="Please check the file!")
@@ -78,52 +67,6 @@ graphri_entry = tkinter.Entry(link_input_frame, width=30)
 graphri_entry.grid(row = 0, column = 1)
 simu_entry = tkinter.Entry(link_input_frame, width=30)
 simu_entry.grid(row = 1, column = 1)
-
-
-"""
-stoff_input_frame = tkinter.LabelFrame(frame, text="Please enter the substances of the processes, you can check it in DWSIM.")
-stoff_input_frame.grid(row=1, column=0, padx=20, pady=20)
-
-
-infobox_label = tkinter.Label(stoff_input_frame, text="                                                            ")
-infobox_label.grid(row=0, column=1)
-stoff1_label = tkinter.Label(stoff_input_frame, text="Substance 1")
-stoff1_label.grid(row=1, column=0)
-stoff2_label = tkinter.Label(stoff_input_frame, text="Substance 2")
-stoff2_label.grid(row=2, column=0)
-stoff3_label = tkinter.Label(stoff_input_frame, text="Substance 3")
-stoff3_label.grid(row=3, column=0)
-stoff4_label = tkinter.Label(stoff_input_frame, text="Substance 4")
-stoff4_label.grid(row=1, column=2)
-stoff5_label = tkinter.Label(stoff_input_frame, text="Substance 5")
-stoff5_label.grid(row=2, column=2)
-stoff6_label = tkinter.Label(stoff_input_frame, text="Substance 6")
-stoff6_label.grid(row=3, column=2)
-infobox2_label = tkinter.Label(stoff_input_frame, text="                                                            ")
-infobox2_label.grid(row=4, column=1)
-blank_label = tkinter.Label(stoff_input_frame, text=" ")
-blank_label.grid(row=0, column=4)
-
-listx = ['1,2-Propanediol', '1,3-Butadiene', '1-Butanol', '1-Butene', '2-Propanol', 'Acetic acid', 'Acetic anhydride', 'Acetone', 'Acetylene', 'Acrolein', 'Acrylic acid', 'Adipic acid', 'Ammonia, anhydrous', 'Aniline', 'Benzene', 'Carbon dioxide', 'Carbon monoxide', 'Chlorine', 'Chlorobenzene', 'Chloroform', 'Cumene', 'Cyclohexane', 'Ethanol', 'Ethyl acetate', 'Ethylbenzene', 'Ethylene', 'Ethylene dichloride', 'Ethylene glycol', 'Ethylene oxide', 'Formaldehyde', 'Formic acid', 'Hydrochloric acid solution', 'Hydrogen', 'Hydrogen cyanide', 'Hydrogen peroxide', 'Hydrogen sulfide', 'Mercury', 'Methane', 'Methanol', 'Methyl acetate', 'Methyl chloride', 'Methyl formate', 'Methylene chloride', 'N-butyl acetate', 'Nitrogen', 'Oxygen', 'Phenol', 'Phthalic anhydride', 'Propane', 'Propene', 'Propylene oxide', 'Sodium carbonate', 'Styrene', 'Sulfur', 'Sulfur dioxide', 'Sulfuric acid', 'Toluene', 'Vinyl chloride', 'Water', 'm-Xylene', 'n-Hexane', 'o-Xylene', 'p-Xylene']
-stoff1_combobox = ttk.Combobox(stoff_input_frame, values=listx)
-stoff2_combobox = ttk.Combobox(stoff_input_frame, values=listx)
-stoff3_combobox = ttk.Combobox(stoff_input_frame, values=listx)
-stoff4_combobox = ttk.Combobox(stoff_input_frame, values=listx)
-stoff5_combobox = ttk.Combobox(stoff_input_frame, values=listx)
-stoff6_combobox = ttk.Combobox(stoff_input_frame, values=listx)
-
-
-
-stoff1_combobox.grid(row=1, column=1)
-stoff2_combobox.grid(row=2, column=1)
-stoff3_combobox.grid(row=3, column=1)
-stoff4_combobox.grid(row=1, column=3)
-stoff5_combobox.grid(row=2, column=3)
-stoff6_combobox.grid(row=3, column=3)
-"""
-
-
-
 
 #Button
 button = tkinter.Button(frame, text="Enter data", command= enter_data)
