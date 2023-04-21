@@ -1,0 +1,2094 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object name="B-03, V-S-B-03" type="Material Stream">
+    <Property name="Temperature" value="49,7533" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="5,1138" units="kg/h" />
+    <Property name="Molar Flow" value="0,116448" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,00623791" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="3,09151E-09" units="" />
+    <Property name="Methanol" value="0,660998" units="" />
+    <Property name="Acetic acid" value="0,169501" units="" />
+    <Property name="Methyl acetate" value="0,169501" units="" />
+    <Property name="Density (Mixture)" value="819,793" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="43,9149" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-730,509" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-2,10947" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-32080,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-92,637" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,172956" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="9,21934E-11" units="" />
+    <Property name="Methanol" value="0,603368" units="" />
+    <Property name="Acetic acid" value="0,0149218" units="" />
+    <Property name="Methyl acetate" value="0,38171" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="3,09151E-09" units="" />
+    <Property name="Methanol" value="0,660998" units="" />
+    <Property name="Acetic acid" value="0,169501" units="" />
+    <Property name="Methyl acetate" value="0,169501" units="" />
+    <Property name="Density (Overall Liquid)" value="819,793" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="43,9149" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-730,509" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-2,10947" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-32080,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-92,637" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,172956" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,47759E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000449049" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,40245" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="5,1138" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,116448" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,00623791" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00199738" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="3,09151E-09" units="" />
+    <Property name="Methanol" value="0,660998" units="" />
+    <Property name="Acetic acid" value="0,169501" units="" />
+    <Property name="Methyl acetate" value="0,169501" units="" />
+    <Property name="Density (Liquid 1)" value="819,793" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="43,9149" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-730,509" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-2,10947" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-32080,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-92,637" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,172956" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,47759E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,000449049" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,40245" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="5,1138" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,116448" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,00623791" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00199738" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="7,18681E-09" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="3,6E-10" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="3,6E-10" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="3,67519E-08" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="3,67519E-08" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0,660998" units="" />
+  </Object>
+  <Object name="CInlet_2, V-SE-06" type="Material Stream">
+    <Property name="Temperature" value="40" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,004" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,197982" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="774,692" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="1" units="" />
+  </Object>
+  <Object name="V-SE-06, B-02" type="Material Stream">
+    <Property name="Temperature" value="40" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,004" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,197982" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="774,692" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="1" units="" />
+  </Object>
+  <Object name="CInlet_1, V-SE-01" type="Material Stream">
+    <Property name="Temperature" value="80" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,002" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,150603" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="997,106" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0" units="" />
+  </Object>
+  <Object name="V-SE-01, B-01" type="Material Stream">
+    <Property name="Temperature" value="80" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,002" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,150603" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="997,106" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0" units="" />
+  </Object>
+  <Object name="E_79, V-SE-10" type="Material Stream">
+    <Property name="Temperature" value="49,7533" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="5,1138" units="kg/h" />
+    <Property name="Molar Flow" value="0,116448" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,00623791" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="3,09151E-09" units="" />
+    <Property name="Methanol" value="0,660998" units="" />
+    <Property name="Acetic acid" value="0,169501" units="" />
+    <Property name="Methyl acetate" value="0,169501" units="" />
+    <Property name="Density (Mixture)" value="819,793" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="43,9149" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-730,509" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-2,10947" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-32080,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-92,637" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,172956" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="9,21934E-11" units="" />
+    <Property name="Methanol" value="0,603368" units="" />
+    <Property name="Acetic acid" value="0,0149218" units="" />
+    <Property name="Methyl acetate" value="0,38171" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="3,09151E-09" units="" />
+    <Property name="Methanol" value="0,660998" units="" />
+    <Property name="Acetic acid" value="0,169501" units="" />
+    <Property name="Methyl acetate" value="0,169501" units="" />
+    <Property name="Density (Overall Liquid)" value="819,793" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="43,9149" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-730,509" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-2,10947" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-32080,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-92,637" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,172956" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,47759E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000449049" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,40245" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="5,1138" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,116448" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,00623791" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00199738" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="3,09151E-09" units="" />
+    <Property name="Methanol" value="0,660998" units="" />
+    <Property name="Acetic acid" value="0,169501" units="" />
+    <Property name="Methyl acetate" value="0,169501" units="" />
+    <Property name="Density (Liquid 1)" value="819,793" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="43,9149" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-730,509" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-2,10947" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-32080,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-92,637" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,172956" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,47759E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,000449049" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,40245" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="5,1138" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,116448" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,00623791" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00199738" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="7,18681E-09" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="3,6E-10" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="3,6E-10" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="3,67519E-08" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="3,67519E-08" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0,660998" units="" />
+  </Object>
+  <Object name="V-SE-09, E_79" type="Material Stream">
+    <Property name="Temperature" value="49,7533" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="5,09298" units="kg/h" />
+    <Property name="Molar Flow" value="0,116244" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,00635924" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="0,168044" units="" />
+    <Property name="Methanol" value="0,831956" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="800,879" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="43,8128" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-837,203" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-2,52224" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-36680,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-110,507" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,182076" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="0,00841271" units="" />
+    <Property name="Methanol" value="0,991587" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0,168044" units="" />
+    <Property name="Methanol" value="0,831956" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="800,879" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="43,8128" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-837,203" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-2,52224" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-36680,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-110,507" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,182076" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,47686E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00043863" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,44003" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="5,09298" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,116244" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,00635924" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00179542" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="0,168044" units="" />
+    <Property name="Methanol" value="0,831956" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="800,879" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="43,8128" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-837,203" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-2,52224" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-36680,2" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-110,507" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,182076" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,47686E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,00043863" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,44003" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="5,09298" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,116244" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,00635924" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00179542" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="0,391561" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0,831956" units="" />
+  </Object>
+  <Object name="B-02, T11" type="Material Stream">
+    <Property name="Temperature" value="40" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,004" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,197982" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="774,692" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="1" units="" />
+  </Object>
+  <Object name="V-12, P-G-02-1" type="Material Stream">
+    <Property name="Temperature" value="40" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,004" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,197982" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="774,692" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="1" units="" />
+  </Object>
+  <Object name="P-G-02-1, F-P-3" type="Material Stream">
+    <Property name="Temperature" value="40" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,004" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,197982" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="774,692" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="774,692" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="32,0419" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-1133,06" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-3,61319" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-36305,4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-115,773" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,197982" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="5,80799E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,00044994" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,62834" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="3,09877" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,09671" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,004" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,00170453" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="1" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="0" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="1" units="" />
+  </Object>
+  <Object name="B-01, T10" type="Material Stream">
+    <Property name="Temperature" value="80" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,002" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,150603" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="997,106" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0" units="" />
+  </Object>
+  <Object name="V-03, P-G-01-1" type="Material Stream">
+    <Property name="Temperature" value="80" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,002" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,150603" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="997,106" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0" units="" />
+  </Object>
+  <Object name="P-G-01-1, F-P-1" type="Material Stream">
+    <Property name="Temperature" value="80" units="C" />
+    <Property name="Pressure" value="1" units="bar" />
+    <Property name="Mass Flow" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow" value="0,002" units="m3/h" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Mixture)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0,150603" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Vapor)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Vapor)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Vapor)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Vapor)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Vapor)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Vapor)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Vapor)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Vapor)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Vapor)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Vapor)" value="NaN" units="" />
+    <Property name="Mass Flow (Vapor)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Vapor)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Vapor)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Vapor)" value="0" units="" />
+    <Property name="Mass Fraction (Vapor)" value="0" units="" />
+    <Property name="Volumetric Fraction (Vapor)" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Overall Liquid)" value="997,106" units="kg/m3" />
+    <Property name="Molecular Weight (Overall Liquid)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Overall Liquid)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Overall Liquid)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Overall Liquid)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Overall Liquid)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Overall Liquid)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Overall Liquid)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Overall Liquid)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Overall Liquid)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Flow (Overall Liquid)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Overall Liquid)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Overall Liquid)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Overall Liquid)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Mass Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Volumetric Fraction (Overall Liquid)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 1)" value="997,106" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 1)" value="102,089" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 1)" value="-377,476" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 1)" value="-1,05385" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 1)" value="-38536" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 1)" value="-107,586" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 1)" value="0,150603" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 1)" value="4,51981E-07" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 1)" value="0,000450673" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 1)" value="2,19673" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 1)" value="1" units="" />
+    <Property name="Mass Flow (Liquid 1)" value="1,99421" units="kg/h" />
+    <Property name="Molar Flow (Liquid 1)" value="0,0195341" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 1)" value="0,002" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 1)" value="0,0027394" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Volumetric Fraction (Liquid 1)" value="1" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Liquid 2)" value="0" units="kg/m3" />
+    <Property name="Molar Weight (Liquid 2)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Liquid 2)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Liquid 2)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Liquid 2)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Liquid 2)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Liquid 2)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Liquid 2)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Liquid 2)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Liquid 2)" value="NaN" units="" />
+    <Property name="Mass Flow (Liquid 2)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Liquid 2)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Liquid 2)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Volumetric Fraction (Liquid 2)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetic anhydride" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Density (Aqueous)" value="0" units="kg/m3" />
+    <Property name="Molecular Weight (Aqueous)" value="0" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Aqueous)" value="0" units="kJ/kg" />
+    <Property name="Specific Entropy (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Aqueous)" value="0" units="kJ/kmol" />
+    <Property name="Molar Entropy (Aqueous)" value="0" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Aqueous)" value="0" units="W/[m.K]" />
+    <Property name="Kinematic Viscosity (Aqueous)" value="0" units="m2/s" />
+    <Property name="Dynamic Viscosity (Aqueous)" value="0" units="Pa.s" />
+    <Property name="Heat Capacity (Aqueous)" value="0" units="kJ/[kg.K]" />
+    <Property name="Heat Capacity Ratio (Aqueous)" value="NaN" units="" />
+    <Property name="Mass Flow (Aqueous)" value="0" units="kg/h" />
+    <Property name="Molar Flow (Aqueous)" value="0" units="kmol/h" />
+    <Property name="Volumetric Flow (Aqueous)" value="0" units="m3/h" />
+    <Property name="Compressibility Factor (Aqueous)" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="0" units="" />
+    <Property name="Aqueous Mass Fraction" value="0" units="" />
+    <Property name="Aqueous Volumetric Fraction" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetic anhydride" value="1" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Acetic acid" value="0" units="" />
+    <Property name="Methyl acetate" value="0" units="" />
+    <Property name="Mass Fraction (Liquid 1) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Liquid 2) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Aqueous) / Acetic anhydride" value="0" units="" />
+    <Property name="Molar Flow (Vapor) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Overall Liquid) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 1) / Acetic anhydride" value="0,0195341" units="kmol/h" />
+    <Property name="Molar Flow (Liquid 2) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Molar Flow (Aqueous) / Acetic anhydride" value="" units="kmol/h" />
+    <Property name="Mass Flow (Vapor) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Overall Liquid) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 1) / Acetic anhydride" value="1,99421" units="kg/h" />
+    <Property name="Mass Flow (Liquid 2) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mass Flow (Aqueous) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Mole Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mass Fraction (Solid) / Acetic anhydride" value="1" units="" />
+    <Property name="Mole Flow (Solid) / Acetic anhydride" value="0" units="kmol/h" />
+    <Property name="Mass Flow (Solid) / Acetic anhydride" value="0" units="kg/h" />
+    <Property name="Molar Fraction (Mixture) / Methanol" value="0" units="" />
+  </Object>
+  <Object name="B-03" type="Liquid Storage Tank">
+    <Property name="Liquid Level" value="0" units="m" />
+    <Property name="Height" value="2" units="m" />
+    <Property name="Initialize using Inlet Stream" value="0" units="" />
+    <Property name="Reset Content" value="0" units="" />
+    <Property name="Pressure Drop" value="0" units="bar" />
+    <Property name="Volume" value="0,001" units="m3" />
+    <Property name="Residence Time" value="0,16031" units="h" />
+  </Object>
+  <Object name="B-02" type="Liquid Storage Tank">
+    <Property name="Liquid Level" value="0" units="m" />
+    <Property name="Height" value="2" units="m" />
+    <Property name="Initialize using Inlet Stream" value="0" units="" />
+    <Property name="Reset Content" value="0" units="" />
+    <Property name="Pressure Drop" value="0" units="bar" />
+    <Property name="Volume" value="0,001" units="m3" />
+    <Property name="Residence Time" value="0,25" units="h" />
+  </Object>
+  <Object name="B-01" type="Liquid Storage Tank">
+    <Property name="Liquid Level" value="0" units="m" />
+    <Property name="Height" value="2" units="m" />
+    <Property name="Initialize using Inlet Stream" value="0" units="" />
+    <Property name="Reset Content" value="0" units="" />
+    <Property name="Pressure Drop" value="0" units="bar" />
+    <Property name="Volume" value="0,001" units="m3" />
+    <Property name="Residence Time" value="0,5" units="h" />
+  </Object>
+  <Object name="PFR-1" type="PFR">
+    <Property name="Max Sections" value="20" units="" />
+    <Property name="Reset Contents" value="0" units="" />
+    <Property name="Pressure Drop" value="1,50018E-07" units="bar" />
+    <Property name="Residence time" value="786,258" units="h" />
+    <Property name="Volume" value="5" units="m3" />
+    <Property name="Tube Length" value="2" units="m" />
+    <Property name="Catalyst loading" value="0" units="kg/m3" />
+    <Property name="Catalyst diameter" value="0" units="mm" />
+    <Property name="Catalyst void fraction" value="0" units="" />
+    <Property name="Temperature delta" value="0" units="C." />
+    <Property name="Heat load" value="-0,270987" units="kW" />
+    <Property name="Tube Diameter" value="1784,12" units="mm" />
+    <Property name="Number of Tubes" value="1" units="" />
+    <Property name="Calculation Mode" value="G6" units="" />
+    <Property name="Acetic anhydride: Conversion" value="100" units="%" />
+    <Property name="Methanol: Conversion" value="20,4095" units="%" />
+    <Property name="Acetic acid: Conversion" value="0" units="%" />
+    <Property name="Methyl acetate: Conversion" value="0" units="%" />
+    <Property name="esterification reaction: Reaction Extent" value="1,9738E-05" units="kmol/h" />
+    <Property name="esterification reaction: Reaction Rate" value="3,94761E-06" units="kmol/[m3.h]" />
+    <Property name="esterification reaction: Reaction Heat" value="-0,385221" units="kW" />
+  </Object>
+</Objects>
