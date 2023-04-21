@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d46" for="edge" attr.name="mol_fraction_Water" attr.type="string"/>
+<key id="d45" for="edge" attr.name="mol_fraction_Ethanol" attr.type="string"/>
+<key id="d44" for="edge" attr.name="Volume_flow_unit" attr.type="string"/>
+<key id="d43" for="edge" attr.name="Volume_flow" attr.type="string"/>
+<key id="d42" for="edge" attr.name="Mass_flow_unit" attr.type="string"/>
+<key id="d41" for="edge" attr.name="Mass_flow" attr.type="string"/>
+<key id="d40" for="edge" attr.name="subs" attr.type="string"/>
+<key id="d39" for="edge" attr.name="sub_group" attr.type="string"/>
+<key id="d38" for="edge" attr.name="group" attr.type="string"/>
+<key id="d37" for="edge" attr.name="heated_cooled" attr.type="string"/>
+<key id="d36" for="edge" attr.name="insulation" attr.type="string"/>
+<key id="d35" for="edge" attr.name="nozzle" attr.type="string"/>
+<key id="d34" for="edge" attr.name="pipe_class" attr.type="string"/>
+<key id="d33" for="edge" attr.name="diameter" attr.type="string"/>
+<key id="d32" for="edge" attr.name="material" attr.type="string"/>
+<key id="d31" for="edge" attr.name="Sub_class" attr.type="string"/>
+<key id="d30" for="edge" attr.name="Class" attr.type="string"/>
+<key id="d29" for="node" attr.name="Subs" attr.type="string"/>
+<key id="d28" for="node" attr.name="orifice_plate" attr.type="string"/>
+<key id="d27" for="node" attr.name="agitator" attr.type="string"/>
+<key id="d26" for="node" attr.name="sub_group_2" attr.type="string"/>
+<key id="d25" for="node" attr.name="sub_group" attr.type="string"/>
+<key id="d24" for="node" attr.name="group" attr.type="string"/>
+<key id="d23" for="node" attr.name="descript" attr.type="string"/>
+<key id="d22" for="node" attr.name="number" attr.type="string"/>
+<key id="d21" for="node" attr.name="nozzle_owner" attr.type="string"/>
+<key id="d20" for="node" attr.name="request" attr.type="string"/>
+<key id="d19" for="node" attr.name="location" attr.type="string"/>
+<key id="d18" for="node" attr.name="C_H_system" attr.type="string"/>
+<key id="d17" for="node" attr.name="insulation" attr.type="string"/>
+<key id="d16" for="node" attr.name="material" attr.type="string"/>
+<key id="d15" for="node" attr.name="V_unit" attr.type="string"/>
+<key id="d14" for="node" attr.name="V" attr.type="string"/>
+<key id="d13" for="node" attr.name="T_min_design_unit" attr.type="string"/>
+<key id="d12" for="node" attr.name="T_min_design" attr.type="string"/>
+<key id="d11" for="node" attr.name="T_max_design_unit" attr.type="string"/>
+<key id="d10" for="node" attr.name="T_max_design" attr.type="string"/>
+<key id="d9" for="node" attr.name="P_min_design_unit" attr.type="string"/>
+<key id="d8" for="node" attr.name="P_min_design" attr.type="string"/>
+<key id="d7" for="node" attr.name="P_max_design_unit" attr.type="string"/>
+<key id="d6" for="node" attr.name="P_max_design" attr.type="string"/>
+<key id="d5" for="node" attr.name="Y" attr.type="string"/>
+<key id="d4" for="node" attr.name="X" attr.type="string"/>
+<key id="d3" for="node" attr.name="Sub_class" attr.type="string"/>
+<key id="d2" for="node" attr.name="Class" attr.type="string"/>
+<key id="d1" for="node" attr.name="PID_label" attr.type="string"/>
+<key id="d0" for="node" attr.name="DEXPI_ID" attr.type="string"/>
+<graph edgedefault="directed"><node id="PL152">
+  <data key="d0">E_41</data>
+  <data key="d1">PL152</data>
+  <data key="d2">Fluid pump</data>
+  <data key="d3">Pump, centrifugal type</data>
+  <data key="d4">217.50000000000006</data>
+  <data key="d5">132.50000000000009</data>
+  <data key="d6">2.5</data>
+  <data key="d7">bar</data>
+  <data key="d8">0</data>
+  <data key="d9">bar</data>
+  <data key="d10">100</data>
+  <data key="d11">°C</data>
+  <data key="d12">0</data>
+  <data key="d13">°C</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">Stainless  steel</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Pump</data>
+  <data key="d25">n.a.</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="PI AN132">
+  <data key="d0">PIF_70</data>
+  <data key="d1">PI AN132</data>
+  <data key="d2">PCE Request</data>
+  <data key="d3">General</data>
+  <data key="d4">204.99999999999994</data>
+  <data key="d5">167.50000000000009</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">Local</data>
+  <data key="d20">PI</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">MSR</data>
+  <data key="d25">n.a.</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="VV160">
+  <data key="d0">PC_38</data>
+  <data key="d1">VV160</data>
+  <data key="d2">Valve (general)</data>
+  <data key="d3">General</data>
+  <data key="d4">217.50000000000023</data>
+  <data key="d5">104.99999999999996</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Valves</data>
+  <data key="d25">Valves (operation)</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="T3">
+  <data key="d0">PC_424</data>
+  <data key="d1">T3</data>
+  <data key="d2">Pipe tee</data>
+  <data key="d3">General</data>
+  <data key="d4">217.49999999999994</data>
+  <data key="d5">117.50000000000009</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Pipe tee</data>
+  <data key="d25">n.a.</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="VV156">
+  <data key="d0">PC_45</data>
+  <data key="d1">VV156</data>
+  <data key="d2">Valve (general)</data>
+  <data key="d3">General</data>
+  <data key="d4">223.74999999999997</data>
+  <data key="d5">117.50000000000009</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Valves</data>
+  <data key="d25">Valves (operation)</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="VV140">
+  <data key="d0">PC_58</data>
+  <data key="d1">VV140</data>
+  <data key="d2">Valve (general)</data>
+  <data key="d3">General</data>
+  <data key="d4">204.99999999999994</data>
+  <data key="d5">151.25000000000003</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Valves</data>
+  <data key="d25">Valves (operation)</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="VH144">
+  <data key="d0">PC_56</data>
+  <data key="d1">VH144</data>
+  <data key="d2">Flap trap (form 2)</data>
+  <data key="d3">General</data>
+  <data key="d4">217.50000000000014</data>
+  <data key="d5">150.00000000000017</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Valves</data>
+  <data key="d25">Valves (safety)</data>
+  <data key="d26">Check valves</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="T5">
+  <data key="d0">PC_63</data>
+  <data key="d1">T5</data>
+  <data key="d2">Pipe tee</data>
+  <data key="d3">General</data>
+  <data key="d4">217.50000000000006</data>
+  <data key="d5">142.50000000000009</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Pipe tee</data>
+  <data key="d25">n.a.</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<node id="VV137">
+  <data key="d0">PC_59</data>
+  <data key="d1">VV137</data>
+  <data key="d2">Valve (general)</data>
+  <data key="d3">General</data>
+  <data key="d4">217.49999999999994</data>
+  <data key="d5">162.49999999999986</data>
+  <data key="d6">n.a.</data>
+  <data key="d7">n.a.</data>
+  <data key="d8">n.a.</data>
+  <data key="d9">n.a.</data>
+  <data key="d10">n.a.</data>
+  <data key="d11">n.a.</data>
+  <data key="d12">n.a.</data>
+  <data key="d13">n.a.</data>
+  <data key="d14">n.a.</data>
+  <data key="d15">n.a.</data>
+  <data key="d16">n.a.</data>
+  <data key="d17">n.a.</data>
+  <data key="d18">n.a.</data>
+  <data key="d19">n.a.</data>
+  <data key="d20">n.a.</data>
+  <data key="d21">n.a.</data>
+  <data key="d22">n.a.</data>
+  <data key="d23">n.a.</data>
+  <data key="d24">Valves</data>
+  <data key="d25">Valves (operation)</data>
+  <data key="d26">n.a.</data>
+  <data key="d27">n.a.</data>
+  <data key="d28">n.a.</data>
+  <data key="d29">n.a.</data>
+</node>
+<edge source="PL152" target="T5">
+  <data key="d30">Piping</data>
+  <data key="d31">Secondary pipe</data>
+  <data key="d32">n.d.</data>
+  <data key="d33">n.d.</data>
+  <data key="d34">n.d.</data>
+  <data key="d35">No</data>
+  <data key="d36">No</data>
+  <data key="d37">No</data>
+  <data key="d38">Medium transfer</data>
+  <data key="d39">Secondary pipe</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+<edge source="VV160" target="T3">
+  <data key="d30">Piping</data>
+  <data key="d31">Secondary pipe</data>
+  <data key="d32">n.d.</data>
+  <data key="d33">n.d.</data>
+  <data key="d34">n.d.</data>
+  <data key="d35">No</data>
+  <data key="d36">No</data>
+  <data key="d37">No</data>
+  <data key="d38">Medium transfer</data>
+  <data key="d39">Secondary pipe</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+<edge source="T3" target="PL152">
+  <data key="d30">Piping</data>
+  <data key="d31">Secondary pipe</data>
+  <data key="d32">n.d.</data>
+  <data key="d33">n.d.</data>
+  <data key="d34">n.d.</data>
+  <data key="d35">No</data>
+  <data key="d36">No</data>
+  <data key="d37">No</data>
+  <data key="d38">Medium transfer</data>
+  <data key="d39">Secondary pipe</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+<edge source="T3" target="VV156">
+  <data key="d30">Piping</data>
+  <data key="d31">Secondary pipe</data>
+  <data key="d32">n.d.</data>
+  <data key="d33">n.d.</data>
+  <data key="d34">n.d.</data>
+  <data key="d35">No</data>
+  <data key="d36">No</data>
+  <data key="d37">No</data>
+  <data key="d38">Medium transfer</data>
+  <data key="d39">Secondary pipe</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+<edge source="VV140" target="PI AN132">
+  <data key="d30">Process connection line</data>
+  <data key="d31">General</data>
+  <data key="d32">n.a.</data>
+  <data key="d33">n.a.</data>
+  <data key="d34">n.a.</data>
+  <data key="d35">No</data>
+  <data key="d36">n.a.</data>
+  <data key="d37">n.a.</data>
+  <data key="d38">Process connection</data>
+  <data key="d39">n.a.</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+<edge source="VH144" target="VV137">
+  <data key="d30">Piping</data>
+  <data key="d31">Secondary pipe</data>
+  <data key="d32">n.d.</data>
+  <data key="d33">n.d.</data>
+  <data key="d34">n.d.</data>
+  <data key="d35">No</data>
+  <data key="d36">No</data>
+  <data key="d37">No</data>
+  <data key="d38">Medium transfer</data>
+  <data key="d39">Secondary pipe</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+<edge source="T5" target="VV140">
+  <data key="d30">Piping</data>
+  <data key="d31">Secondary pipe</data>
+  <data key="d32">n.d.</data>
+  <data key="d33">n.d.</data>
+  <data key="d34">n.d.</data>
+  <data key="d35">No</data>
+  <data key="d36">No</data>
+  <data key="d37">No</data>
+  <data key="d38">Medium transfer</data>
+  <data key="d39">Secondary pipe</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+<edge source="T5" target="VH144">
+  <data key="d30">Piping</data>
+  <data key="d31">Secondary pipe</data>
+  <data key="d32">n.d.</data>
+  <data key="d33">n.d.</data>
+  <data key="d34">n.d.</data>
+  <data key="d35">No</data>
+  <data key="d36">No</data>
+  <data key="d37">No</data>
+  <data key="d38">Medium transfer</data>
+  <data key="d39">Secondary pipe</data>
+  <data key="d40">n.a.</data>
+  <data key="d41">n.a.</data>
+  <data key="d42">n.a.</data>
+  <data key="d43">n.a.</data>
+  <data key="d44">n.a.</data>
+  <data key="d45">n.a.</data>
+  <data key="d46">n.a.</data>
+</edge>
+</graph></graphml>
