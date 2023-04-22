@@ -116,7 +116,7 @@ References:
 [^2]: Zennir, Y.; Bendib, R. The dependability control analysis: Applied to centrifugal pumps in a oil petrochemical plant. In 2015 International Conference on Industrial Engineering and Systems Management (IESM); IEEE, 2015; pp 1004–1011.
 [^3]: Holtermann, T. Entwicklung eines Expertentools zur automatisierten Sicherheitsbetrachtung von standardisierten R&I-Fließbildern im DEXPI Format. Masterarbeit; Technische Universität Dortmund, Dortmund, 2022.
 [^4]: ProcessNet Ereignis-Datenbank, online documentation, https://processnet.org/ereignisdb.html, accessed on 22.04.2023
-[^5]: What is centrifugal water pump idling, online documentation, https://angroupcn.com/learn-about-centrifugal-water-pump-idling/, accessed on 22.04.2023
+[^5]: Learn about centrifugal water pump idling, online documentation, https://angroupcn.com/learn-about-centrifugal-water-pump-idling/, accessed on 22.04.2023
 [^6]: Hazard and Operability (HAZOP), online documentation, https://www.ehsdb.com/hazop.php, accessed on 22.04.2023
 [^7]:  Ciricillo, S. Hazard and Operability Analysis of an Ethylene Oxide Production Plant, online documentation, https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1276&context=senior_theses, accessed on 22.04.2023
 [^8]: HAZOP for Distillation column Parameter Guideword Deviation Possible Cause Consequence Action, online documentation, https://www.academia.edu/33328920/HAZOP_for_Distillation_column_Parameter_Guideword_Deviation_Possible_Cause_Consequence_Action_Flow_NO_No_flow_at_BULLET_Pipe_blockages, accessed on 22.04.2023
