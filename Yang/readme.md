@@ -9,6 +9,7 @@ Optimization points of automated preHAZOP:
 - Self-integrated scenarios such as reactor runaway scenario; corrosion scenario for piping and equipment
 
 ![HAZOP-Graph](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Automated%20HAZOP%20analysis.png)
+
 Figure 1: Automated HAZOP Analysis Flow Sheet
 
 ## Authors:
@@ -18,21 +19,42 @@ Ruolan Yang, Jonas Oeing
 
 TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortmund.de/cms/en/laboratory/)
 
+***
 ## Install:
 
-- Install Python (anaconda) from https://www.anaconda.com/products/individual [^1]
+- Install Python (anaconda) from https://www.anaconda.com/products/individual (Python 3.9.15)
 
 - Install MySQL from https://dev.mysql.com/downloads/, for windows [^2]: 
-1. select *MySQL Installer for Windows*
-2. select first *Windows (x86, 32-bit), MSI Installer 2.4M* to *Download*, 
-3. select *No thanks, just start my download.*
-4. select Setup Type: *Custom*
-5. select Products: MySQL Server; MySQL Workbench; MySQL Shell (select the latest version)
-6. Next -> Excute -> Next
-7. Accont and Roles: select your password
-8. Next -> Finish
-9. Go to MySQL Workbench, Connect to MySQL Server, you need to enter your password
-10. You can now work with the SQL database.
+  1. select *MySQL Installer for Windows*
+  2. select first *Windows (x86, 32-bit), MSI Installer 2.4M* to *Download*, 
+  3. select *No thanks, just start my download.*
+  4. select Setup Type: *Custom*
+  5. select Products: MySQL Server; MySQL Workbench; MySQL Shell (select the latest version)
+  6. Next -> Excute -> Next
+  7. Accont and Roles: select your password
+  8. Next -> Finish
+  9. Go to MySQL Workbench, Connect to MySQL Server, you need to enter your password
+  10. You can now work with the SQL database.
+
+- Load the following python libraries:
+  - NetworkX (vers. 2.8.8) [^3]
+  - Matplotlib (vers. 3.6.2) [^4]
+  - mysql.connector (vers. 8.0.31) [^5]
+  - Other libraries are included with Python.
+
+- Load all_codes.zip from https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/Results/Code/all_codes.zip
+
+- Load XMLs from https://github.com/TUDoAD/Abschlussarbeiten_Oeing/tree/main/Yang/Results/XMLs
+
+- Place scripts with XMLs in one folder
+
+***
+## Manual:
+
+### *Read_Simu_GraphML*
+
+1. Run the script in Python
+2. 
 
 
 
@@ -69,7 +91,15 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
 
 
 
-
-
+***
 References:
+
 [^1]: Oeing, J; Holtermann, T. online documentation,   https://github.com/TUDoAD/preHAZOP#user-content-fn-2-a8cb56aa2b9de8999506ceb333e4af1f, accessed on 22.04.2023
+
+[^2]: MySQL Guide, online documentation, https://www.youtube.com/watch?v=gvRXjsrpCHw, accessed on 22.04.2023
+
+[^3]: NetworkX, online documentation, https://networkx.org/, accessed on 22.04.2023
+
+[^4]: matplotlib, https://matplotlib.org/, accessed on 22.04.2023
+
+[^5]: MySQL Connectors, https://www.mysql.com/products/connector/, accessed on 22.04.2023
