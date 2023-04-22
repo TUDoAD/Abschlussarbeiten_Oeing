@@ -9,7 +9,6 @@ Optimization points of automated preHAZOP:
 - Self-integrated scenarios such as reactor runaway scenario; corrosion scenario for piping and equipment
 
 ![HAZOP-Graph](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Automated%20HAZOP%20analysis.png)
-
 Figure 1: Automated HAZOP Analysis Flow Sheet
 
 ## Authors:
@@ -21,7 +20,7 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
 
 ## Install:
 
->- Install Python (anaconda) from https://www.anaconda.com/products/individual [^1]
+- Install Python (anaconda) from https://www.anaconda.com/products/individual [^1]
 
 - Install MySQL from https://dev.mysql.com/downloads/, for windows [^2]: 
 1. select *MySQL Installer for Windows*
