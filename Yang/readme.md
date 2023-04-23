@@ -54,9 +54,9 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
 Here is the sequence of the HAZOP & risk analysis 
 
 ```mermaid
-graph HAZOP;
-Read_Simu_GraphML-->Druckraum_Detektion;
-Druckraum_Detektion-->HAZOP_analyse;
+graph LR;
+    Read_Simu_GraphML-->Druckraum_Detektion;
+    Druckraum_Detektion-->HAZOP_analyse;
 ```
 ### *Read_Simu_GraphML* --- Integration of GraphML file and simulation results file
 
