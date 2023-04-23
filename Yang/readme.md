@@ -51,7 +51,7 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
 ***
 ## Manual:
 
-Here is the sequence of the HAZOP & risk analysis 
+Here is the sequence of the HAZOP & risk analysis:
 
 ```mermaid
 graph LR;
@@ -73,11 +73,13 @@ Figure 2: Graphical user interface for the *Read_Simu_GraphML*
 
 * Notice, if you want to try a new process, please make sure:
 
+  * In the simulation result, all flows (edges) around the equipment must be available, otherwise it is not possible to analyse the leakage risk of the equipment.
+
   * In the first line of the simulation result, the *encoding* must be *utf-8*.
 ```xml
   <?xml version="1.0" encoding="utf-8"?>
 ```
-  * In the simulation result, all flows (edges) around the equipment must be available, otherwise it is not possible to analyse the leakage risk of the equipment.
+
 
 ### *Druckraum_Detektion* --- Prepare pressure zones for HAZOP & risk analysis
 
