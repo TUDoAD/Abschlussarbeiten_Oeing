@@ -55,8 +55,8 @@ Here is the sequence of the HAZOP & risk analysis:
 
 ```mermaid
 graph LR;
-    *Read_Simu_GraphML*-->*Druckraum_Detektion*;
-    *Druckraum_Detektion*-->*HAZOP_analyse*;
+    Read_Simu_GraphML-->Druckraum_Detektion;
+    Druckraum_Detektion-->HAZOP_analyse;
 ```
 ### *Read_Simu_GraphML* --- Integration of GraphML file and simulation results file
 
@@ -152,7 +152,7 @@ comp_g = nx.read_graphml("./CSTR_Graph_Plus.xml")
   USE `hazop_result`;
   SELECT * FROM hazop_analyse_your_input_name;
 ```
-11. to see the example of the result as follows: https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/Results/Hazop-Results/CSTR.md
+11. To see the example of the result as follows: https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/Results/Hazop-Results/CSTR.md
 
 
 
