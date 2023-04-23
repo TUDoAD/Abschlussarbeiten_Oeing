@@ -56,9 +56,9 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
 1. Run the script in Python
 2. Enter file names for GraphML and simulation results. for example: *CSTR_plant_GraphML* and *CSTR_Simulation* 
 
-<div align=center>![GUI for Data input](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/GUI_for_integration_RI.png)
+<div align=center>![GUI for Data input](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/GUI_for_integration_RI.png)</div>
 
-Figure 2: Graphical user interface for the *Read_Simu_GraphML*</div>
+<div align=center>Figure 2: Graphical user interface for the *Read_Simu_GraphML*</div>
 
 3. Click *Enter data*; if the files exist, the Messenger box will tell you that you can close the window.
 
@@ -67,9 +67,9 @@ Figure 2: Graphical user interface for the *Read_Simu_GraphML*</div>
 * Notice, if you want to try a new process, please make sure:
 
   * In the first line of the simulation result, the *encoding* must be *utf-8*.
-    ```xml
-   <?xml version="1.0" encoding="utf-8"?>
-    ```
+```xml
+  <?xml version="1.0" encoding="utf-8"?>
+```
   * In the simulation result, all flows (edges) around the equipment must be available, otherwise it is not possible to analyse the leakage risk of the equipment.
 
 ### *Druckraum_Detektion* --- Prepare pressure zones for HAZOP & risk analysis
