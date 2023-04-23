@@ -55,8 +55,8 @@ Here is the sequence of the HAZOP & risk analysis:
 
 ```mermaid
 graph LR;
-    Read_Simu_GraphML-->Druckraum_Detektion;
-    Druckraum_Detektion-->HAZOP_analyse;
+    *Read_Simu_GraphML*-->*Druckraum_Detektion*;
+    *Druckraum_Detektion*-->*HAZOP_analyse*;
 ```
 ### *Read_Simu_GraphML* --- Integration of GraphML file and simulation results file
 
@@ -130,7 +130,7 @@ connection_2 = mysql.connector.connect(host = 'localhost',
 cursor_2 = connection_2.cursor()
 ```
 
-7. Enter the name for your result, the folder name for pressure zones and the Graph Plus XML files.
+8. Enter the name for your result, the folder name for pressure zones and the Graph Plus XML files.
 ```python
 #You can call it what you like, for example: 'cstr', 'cccc'
 Input_name = 'cstr_025'
@@ -145,14 +145,14 @@ comp_g = nx.read_graphml("./CSTR_Graph_Plus.xml")
 #The result will be called 'hazop_analyse_'+ Input_name
 ```
 
-8. Run the script
+9. Run the script.
 
-9. You can now see the hazop results in the MySQL Workbench, enter the following code and select it, then click *"lightning"* to execute.
+10. You can now see the hazop results in the MySQL Workbench, enter the following code and select it, then click *"lightning"* to execute.
 ```sql
   USE `hazop_result`;
   SELECT * FROM hazop_analyse_your_input_name;
 ```
-10. to see the example of the result as follows: https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/Results/Hazop-Results/CSTR.md
+11. to see the example of the result as follows: https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/Results/Hazop-Results/CSTR.md
 
 
 
