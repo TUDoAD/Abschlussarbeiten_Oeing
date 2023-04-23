@@ -25,16 +25,16 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
 - Install Python (anaconda) from https://www.anaconda.com/products/individual (Python 3.9.15)
 
 - Install MySQL from https://dev.mysql.com/downloads/, for windows [^2]: 
-  1. select *MySQL Installer for Windows*
-  2. select first *Windows (x86, 32-bit), MSI Installer 2.4M* to *Download*, 
-  3. select *No thanks, just start my download.*
-  4. select Setup Type: *Custom*
-  5. select Products: MySQL Server; MySQL Workbench; MySQL Shell (select the latest version)
-  6. Next -> Excute -> Next
-  7. Accont and Roles: select your password
-  8. Next -> Finish
-  9. Go to MySQL Workbench, Connect to MySQL Server, you need to enter your password
-  10. You can now work with the SQL database.
+    1. select *MySQL Installer for Windows*
+    2. select first *Windows (x86, 32-bit), MSI Installer 2.4M* to *Download*, 
+    3. select *No thanks, just start my download.*
+    4. select Setup Type: *Custom*
+    5. select Products: MySQL Server; MySQL Workbench; MySQL Shell (select the latest version)
+    6. Next -> Excute -> Next
+    7. Accont and Roles: select your password
+    8. Next -> Finish
+    9. Go to MySQL Workbench, Connect to MySQL Server, you need to enter your password
+    10. You can now work with the SQL database.
 
 - Load the following python libraries:
   - NetworkX (vers. 2.8.8) [^3]
