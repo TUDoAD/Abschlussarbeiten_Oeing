@@ -56,7 +56,7 @@ Here is the sequence of the HAZOP & risk analysis:
 ```mermaid
 graph LR;
     Read_Simu_GraphML-->Druckraum_Detektion;
-    Druckraum_Detektion-->HAZOP_analyse;
+    Druckraum_Detektion-->HAZOP_analysis;
 ```
 ### *Read_Simu_GraphML* --- Integration of GraphML file and simulation results file
 
