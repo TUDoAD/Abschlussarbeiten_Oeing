@@ -56,9 +56,9 @@ TU Dortmund University, [Laboratory of Equipment Design](https://ad.bci.tu-dortm
 1. Run the script in Python
 2. Enter file names for GraphML and simulation results. for example: *CSTR_plant_GraphML* and *CSTR_Simulation* 
 
-<div align=center>![GUI for Data input](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/GUI_for_integration_RI.png)</div>
+![GUI for Data input](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/GUI_for_integration_RI.png)
 
-<div align=center>Figure 2: Graphical user interface for the *Read_Simu_GraphML*</div>
+Figure 2: Graphical user interface for the *Read_Simu_GraphML*
 
 3. Click *Enter data*; if the files exist, the Messenger box will tell you that you can close the window.
 
