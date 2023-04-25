@@ -647,7 +647,7 @@ print("delta_Tr: " + str(MSTR))
 
 
 
-#Um die Hazop_Inhalte zu erstellendef severity_check (delta_Tr):
+# Um die Severity zu bewerten
 def severity_check (delta_Tr):
     if delta_Tr > 400:
         severity = 'Catastrophic'
@@ -663,7 +663,7 @@ def severity_check (delta_Tr):
     return description
     
 
-
+# Zur Ermittlung der Auswirkungen
 overpressure_risk = 0
 toxic_risk = 0
 flamm_risk = 0

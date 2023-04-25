@@ -14,7 +14,7 @@ import networkx as nx
 import os
 #import pandas as pd
 
-
+# Erfassung und Überprüfung der Eingangsdaten
 def enter_data():
     global name1
     global name2
@@ -78,9 +78,10 @@ window.mainloop()
 
 
 
-
+#Lesen die GraphML Datei mit NetworkX
 g = nx.read_graphml('./'+name1+'.xml')
 
+#Lesen die Simulationsergebnisse mit ElementTree 
 tree = ET.parse(name2+".xml")
 
 
@@ -89,8 +90,11 @@ tree = ET.parse(name2+".xml")
 #g = nx.read_graphml('./CSTR_plant_GraphML.xml')
 #tree = ET.parse("CSTR_simulation_2.xml")
 
+# alle Kanten des Graphen auflisten
 edges_names = g.edges
 #print(edges_names)
+
+# Alle Stoffnamen in der Datenbank
 listx = ['1,2-Propanediol', '1,3-Butadiene', '1-Butanol', '1-Butene', '2-Propanol', 'Acetic acid', 'Acetic anhydride', 'Acetone', 'Acetylene', 'Acrolein', 'Acrylic acid', 'Adipic acid', 'Ammonia, anhydrous', 'Aniline', 'Benzene', 'Carbon dioxide', 'Carbon monoxide', 'Chlorine', 'Chlorobenzene', 'Chloroform', 'Cumene', 'Cyclohexane', 'Ethanol', 'Ethyl acetate', 'Ethylbenzene', 'Ethylene', 'Ethylene dichloride', 'Ethylene glycol', 'Ethylene oxide', 'Formaldehyde', 'Formic acid', 'Hydrochloric acid solution', 'Hydrogen', 'Hydrogen cyanide', 'Hydrogen peroxide', 'Hydrogen sulfide', 'Mercury', 'Methane', 'Methanol', 'Methyl acetate', 'Methyl chloride', 'Methyl formate', 'Methylene chloride', 'N-butyl acetate', 'Nitrogen', 'Oxygen', 'Phenol', 'Phthalic anhydride', 'Propane', 'Propene', 'Propylene oxide', 'Sodium carbonate', 'Styrene', 'Sulfur', 'Sulfur dioxide', 'Sulfuric acid', 'Toluene', 'Vinyl chloride', 'Water', 'm-Xylene', 'n-Hexane', 'o-Xylene', 'p-Xylene']
 
 #input_stoff = input_stoff_exist
@@ -100,7 +104,7 @@ listx = ['1,2-Propanediol', '1,3-Butadiene', '1-Butanol', '1-Butene', '2-Propano
 
 
 
-  
+# Leere Liste zum Ausfüllen der Attribute vorbereiten  
 edge = []
 substanz = []
 mass_flow = []
@@ -109,7 +113,7 @@ volume_flow = []
 volume_flow_unit = []
 
 
-
+# Suche nach allen vorhandenen Stoffen in den Kanten
 input_stoff = []
 for i in edges_names:
     object_name_1 = i[0] + ', ' + i[1]
@@ -122,6 +126,7 @@ for i in edges_names:
 print(input_stoff)           
 
 
+# Fügen folgende Stoffinformationen aus der Simulation als neue Attribute ein
 
 molfraction = {}
 for stoff in input_stoff:
@@ -185,6 +190,7 @@ for i in molfraction:
     List_for_name.append(molfraction[i]['xml_name'])
 #print(substanz)
 
+# Kantenattribute hinzufügen
 for (attr,name) in zip(List_for_attribute, List_for_name):
     dic_attribute = dict(zip(edge, attr))
     #print(dic_attribute)
@@ -194,6 +200,7 @@ for (attr,name) in zip(List_for_attribute, List_for_name):
     
 
 #############################################################################################################################
+# Fügen neue Attribute aus den Simulationsergebnissen für die Knoten ein
 
 dic_sub_process = {}
 node_names = g.nodes()
@@ -242,6 +249,8 @@ nx.set_node_attributes(g, dic_node)
 
    
 name_for_save = name1[0:4]
+
+#Knotenattribute hinzufügen
 nx.write_graphml_lxml(g, name_for_save+'_Graph_Plus.xml')
 
 

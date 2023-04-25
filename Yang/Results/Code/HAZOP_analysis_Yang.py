@@ -37,12 +37,12 @@ Input_name = 'cstr_024'
 Table_Name = 'hazop_analyse_' + Input_name
 Input_Ordner_name = "Druckraum_CSTR_Graph_Plus"
 
-#für die Druckrüme der Pumpe, Bypass zu überprüfen
+# Für die Druckrüme der Pumpe, Bypass zu überprüfen
 comp_g = nx.read_graphml("./CSTR_Graph_Plus.xml")
 
 
 
-#Funktion, um die Austrittsmenge zu beurteilen und mit Hilfe von Signalword zu 
+# Funktion, um die Austrittsmenge zu beurteilen und mit Hilfe von Signalword zu 
 def Einstufen_des_Ausmaßes(Austrittsmenge, Signalword):
     if Signalword == 'Danger':
         if Austrittsmenge <= 4.5:
@@ -73,7 +73,7 @@ def Einstufen_des_Ausmaßes(Austrittsmenge, Signalword):
             return 'S2'
 
 
-#Funktion, um die richtige Stufe einzugeben, wenn zwei Stufen exisieren. 
+# Funktion, um die richtige Stufe einzugeben, wenn zwei Stufen exisieren. 
 def finden_Stufen(x,y):
     number_x = int(x[1])
     number_y = int(y[1])
@@ -83,7 +83,7 @@ def finden_Stufen(x,y):
         return x
     
 
-#Funktion, um die richtige Stufe von einer List einzugeben.
+# Funktion, um die richtige Stufe von einer List einzugeben.
 def finden_Stufen_in_List(stufen):
     s = list(set(stufen))
     if s != ['-'] and s != [None] and s != ['']:
@@ -94,7 +94,7 @@ def finden_Stufen_in_List(stufen):
     else:
         return '-'    
 
-
+# Funktion zur Bestimmung der Gefahrenstufen des Gemisches in der Rohrleitung
 def finde_Stufen_Mischung(g, edge):
     stoffnames = g.get_edge_data(*edge)['subs']
     
@@ -143,7 +143,7 @@ def finde_Stufen_Mischung(g, edge):
             #wi = molfraction[i] * float(info['Molar mass']) / ()
         
 
-#finde_Stufen_Mischung(g, ('B-03', 'V-S-B-03'))
+# Identifizieren der Gefährdungsstufen für Apparate wie Reaktor, Behälter
 def finde_Stufen_in_Vessel(g,node):
     edges_out = list(g.out_edges(node))
     edges_in = list(g.in_edges(node))
@@ -225,6 +225,7 @@ def finde_Stufen_in_Vessel(g,node):
 
 ##############################################################################################################
 #Hazop-Analyse
+# Neue Tabelle erstellen
 cursor_2.execute("CREATE TABLE " + Table_Name +\
                " (`Nodes` VARCHAR(255),\
                 `Index` int,\
@@ -244,6 +245,8 @@ cursor_2.execute("CREATE TABLE " + Table_Name +\
                 Safeguard_2 VARCHAR(255),\
                 `References` VARCHAR(255), Primary Key(`Nodes`, `Index`))")
 
+# Durchführung der HAZOP-Analyse nacheinander in den Druckräumen
+# Szenarien in der Datenbank anzuwenden
 
 for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
     for filename in filenames:
@@ -255,7 +258,7 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
             g = nx.read_graphml(n)
 
 
-            #wenn man direkt g.nodes() benutzt, funktioniert die Iterator nicht, return Null...man kann nur einzeln kopieren
+            # Wenn man direkt g.nodes() benutzt, funktioniert die Iterator nicht, return Null...man kann nur einzeln kopieren
             nodes_name = []
             nodes = g.nodes()
             for n in nodes:
@@ -302,7 +305,7 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
 
 
 ##################################################################################################################################################################
-#Austrittsgefahr
+# Bewertung des Leckagerisikos
 ##################################################################################################################################################################
 
            
@@ -681,6 +684,7 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
                     mix_capa_top = 0
                     mix_capa_bottom = 0
 
+                    # zur Berechnung von Delta T (Kelvin)
                     for i in exist_reaction_stoff:
                         Qr  = Qr + float(info_sub[i][6])*stoichio[i]
                         if stoichio[i] > 0:
@@ -704,24 +708,9 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
 
                     print(MSTR)
 
-                    #reactor_volume = 0.0015
-
-                    #ideal gas constant, unit J/molK
-                    #R = 8.31431
-                    #A_factor Unit L/mol*s, T Unit Kelvin, Ea Aktivierungsenergie J/mol
-
-                    #k1 = A_factor * math.exp(-Ea/(R*(reaction_temp+273.15)))
-
-                    #Annahme, This approximation (7) was established for reactions of zero order.
-                    #q0 = k1*reactor_volume*Qr
-
-                    #TMRad Time to Maximum Rate, TMRad = Cp*R*T0^2/q0*Ea
-                    #TMRad = mix_capa*10**3*R*(reaction_temp+273.15)**2/(q0*Ea)
 
 
-
-
-                    #Um die Hazop_Inhalte zu erstellendef severity_check (delta_Tr):
+                    # Um die Severity zu bewerten
                     def severity_check (delta_Tr):
                         if delta_Tr > 400:
                             severity = 'Catastrophic'
@@ -735,7 +724,7 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
                         description = severity + " runaway reaction"
                         return description
 
-
+                    # Zur Abschätzung der Auswirkungen des Runaway-Szenarios
                     overpressure_risk = 0
                     toxic_risk = 0
                     flamm_risk = 0
@@ -880,7 +869,7 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
                                 material_dict[n] = material_info
                     
             #print(material_dict)
-
+            # Auswirkungen, Ursachen und Sicherheitsmaßnahmen nach dem Algorithmus anzugeben
             for n in material_dict.keys():
                 if material_dict[n]['Corrosive Substanz'] != []:
                     cause_1 = 'because of the corrosive substance(s): ' + ', '.join(material_dict[n]['Corrosive Substanz'])
@@ -964,7 +953,7 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
                 
                 
 ###############################################################################################################################################################################################################################################################################################################
-#Sicherheitüberprüfung
+# Es gibt verschiedene Algorithmen zur Sicherheitsüberprüfung in Abhängigkeit von der Anzahl der Hauptanlagen und der Anzahl der Pumpen
 
 
 Haput_teil = ["Column", "Heat exchanger, detailed","Heat exchanger", "Vessel", "Silo", "Reactor"]
@@ -1155,7 +1144,7 @@ for i in dic_safe:
 ###########################################################################################################################################################################################
 
 
-
+# Verbindung zu MySQL abbrechen
 connection_1.commit()
 connection_1.close()
 

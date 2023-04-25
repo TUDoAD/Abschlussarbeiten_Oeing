@@ -17,7 +17,7 @@ from tkinter import messagebox
 
 
 
-
+# Erfassung aller Eingangsinformationen und Überprüfung der Existenz der Datei
 def enter_data():
     global name1
     global name2
@@ -85,7 +85,7 @@ window.mainloop()
 
 
 
-
+# Lesen GraphML Plus mit NetworkX
 g = nx.read_graphml('./'+name1+'.xml')
 
 
@@ -363,7 +363,7 @@ def draw_nodes_with_same_pressure(g,n):
         nx.draw(v, dic_position, node_size=nodes_size, node_color=color_list, edge_color=edge_colors, style=edge_form, width=weight, with_labels=True, font_size=3)
     
     
-    
+    #Druckraumdetektion
     #for node in main_node_names:
     main_node = g._node[n]['group']
     if main_node in main_nodes:
@@ -512,7 +512,7 @@ def draw_nodes_with_same_pressure(g,n):
                                                                                                                         nodes_exist_all.append(T13)
                                                                                                                         #neighboor_of_sub_node_14 = list(nx.all_neighbors(g,T13))
 
-
+    # Erstellung neuer Ordner
     def createFolder(directory):
         try:
             if not os.path.exists(directory):
@@ -536,13 +536,13 @@ def draw_nodes_with_same_pressure(g,n):
     if not os.path.isdir(results_dir):
         os.makedirs(results_dir)
 
-
+    # Bild für Drückräume speichern
     plt.savefig(results_dir + sample_file_name, dpi=300)
     #plt.savefig("Druckraum_11_10_10 "+n+" .png", dpi=300)
     plt.close()
     
     
-    
+    # Vorbereitung des Bildes für die nicht in die Druckräume eingefügten Knoten
     #to_remove = []
     node_names = g.nodes()
     #for node in node_names:
@@ -569,7 +569,7 @@ for node_name in node_names:
         main_node_names.append(node_name)
 #print(main_node_names)
 
-    
+    # Alle Druckräume für die Haupteinrichtungen zu ermitteln und Redundanzen zu vermeiden
 main_nodes_with_same_pressure=[]
 for x in main_node_names:
     if x not in main_nodes_with_same_pressure:    
