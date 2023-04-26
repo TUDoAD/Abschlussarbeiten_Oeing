@@ -475,7 +475,7 @@ plus4_label.grid(row=1, column=9)
 product3_label = tkinter.Label(reaction_frame, text="Product 3")
 product3_label.grid(row=0, column=10)
 
-Stofflist_combo = ['1,2-Propanediol', '1,3-Butadiene', '1-Butanol', '1-Butene', '2-Propanol', 'Acetic acid', 'Acetic anhydride', 'Acetone', 'Acetylene', 'Acrolein', 'Acrylic acid', 'Adipic acid', 'Ammonia, anhydrous', 'Aniline', 'Benzene', 'Carbon dioxide', 'Carbon monoxide', 'Chlorine', 'Chlorobenzene', 'Chloroform', 'Cumene', 'Cyclohexane', 'Ethanol', 'Ethyl acetate', 'Ethylbenzene', 'Ethylene', 'Ethylene dichloride', 'Ethylene glycol', 'Ethylene oxide', 'Formaldehyde', 'Formic acid', 'Hydrochloric acid solution', 'Hydrogen', 'Hydrogen cyanide', 'Hydrogen peroxide', 'Hydrogen sulfide', 'Mercury', 'Methane', 'Methanol', 'Methyl acetate', 'Methyl chloride', 'Methyl formate', 'Methylene chloride', 'N-butyl acetate', 'Nitrogen', 'Oxygen', 'Phenol', 'Phthalic anhydride', 'Propane', 'Propene', 'Propylene oxide', 'Sodium carbonate', 'Styrene', 'Sulfur', 'Sulfur dioxide', 'Sulfuric acid', 'Toluene', 'Vinyl chloride', 'Water', 'm-Xylene', 'n-Hexane', 'o-Xylene', 'p-Xylene']
+Stofflist_combo = ['Acetic acid', 'Acetic anhydride', 'Ethanol', 'Ethylene oxide', 'Hydrogen peroxide', 'Methanol', 'Methyl acetate', 'Sulfuric acid']
 
 reactant1_combobox = ttk.Combobox(reaction_frame, values=Stofflist_combo)
 reactant2_combobox = ttk.Combobox(reaction_frame, values=Stofflist_combo)
@@ -642,8 +642,8 @@ print("delta_Tr: " + str(delta_Tr))
 
 MSTR = delta_Tr + float(reaction_temp)
 
-print("MSTR: ")
-print("delta_Tr: " + str(MSTR))
+
+print("MSTR: " + str(MSTR))
 
 
 
@@ -723,7 +723,7 @@ def consequence_2(safe_info4):
     if safe_info4 != "Decompositions risk of ":
         consequence_2 = safe_info4.rstrip(',')        
     else:
-        consequence_2 = '-'
+        consequence_2 = 'no decomposition risk'
     return consequence_2
   
 
@@ -732,7 +732,7 @@ def consequence_3(ignition_risk):
     if ignition_risk > 0:
         consequence_3 = "risk of explosion with fire"
     elif ignition_risk == 0:
-        consequence_3 = "-"
+        consequence_3 = "no risk of explosion with fire"
     return consequence_3
 
 descrip = severity_check (MSTR)
