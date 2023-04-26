@@ -8,9 +8,11 @@ Optimization points of automated preHAZOP:
 - Process medium is considered
 - Self-integrated scenarios such as reactor runaway scenario; corrosion scenario for piping and equipment
 
-<div align=center>
-![HAZOP-Graph](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Automated%20HAZOP%20analysis.png)
-</div>
+<p align="center">
+
+  <img src="https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Automated%20HAZOP%20analysis.png">
+
+</p>
 
 $${\color{blue}Figure \space 1: Automated \space HAZOP \space Analysis \space Flow Sheet}$$
 
