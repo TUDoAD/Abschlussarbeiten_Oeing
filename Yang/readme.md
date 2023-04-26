@@ -73,7 +73,7 @@ graph LR;
 
 </p>
 
-$${\color{blue}Figure \space 2: Graphical \space user \space interface \space for \space the \space Read_Simu_GraphML}$$
+$${\color{blue}Figure \space 2: Graphical \space user \space interface \space for \space the \space Read \spac Simu \space GraphML}$$
 
 3. Click *Enter data*; if the files exist, the Messenger box will tell you that you can close the window.
 
@@ -100,7 +100,7 @@ $${\color{blue}Figure \space 2: Graphical \space user \space interface \space fo
 
 </p>
 
-$${\color{blue}Figure \space 3: Graphical \space user \space interface \space for \space the \space Druckraum_Detektion}$$
+$${\color{blue}Figure \space 3: Graphical \space user \space interface \space for \space the \space Druckraum \space Detektion}$$
 
 3. The pressure zone results are stored in a new created folder *Druckraum_XX*.
 
@@ -184,7 +184,7 @@ comp_g = nx.read_graphml("./CSTR_Graph_Plus.xml")
 
 </p>
 
-$${\color{blue}Figure \space 5: Graphical \space user \space interface \space for \space the \space Runaway_hazop \space to \space enter \space reaction \space information}$$
+$${\color{blue}Figure \space 5: Graphical \space user \space interface \space for \space the \space Runaway \space hazop \space to \space enter \space reaction \space information}$$
 
 3. If the substance does not exist, you can enter the name of this substance and the second window will appear.
 
@@ -194,7 +194,7 @@ $${\color{blue}Figure \space 5: Graphical \space user \space interface \space fo
 
 </p>
 
-$${\color{blue}Figure \space 6: Graphical \space user \space interface \space for \space the \space Runaway\text{_}hazop \space to \space enter \space substance \space information}$$
+$${\color{blue}Figure \space 6: Graphical \space user \space interface \space for \space the \space Runaway \space  hazop \space to \space enter \space substance \space information}$$
 
 4. Enter the substance information.
 
