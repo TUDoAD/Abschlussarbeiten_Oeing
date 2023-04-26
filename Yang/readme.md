@@ -155,21 +155,32 @@ comp_g = nx.read_graphml("./CSTR_Graph_Plus.xml")
 11. To see the example of the result as follows: https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/Results/Hazop-Results/CSTR.md
 
 
+***
 
+### *Runaway_hazop*
+1. Run the script in Python.
 
+2. Enter reaction information.
 
+![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Guide_for_import_data.png)
 
+Figure 5: Graphical user interface for the *Runaway_hazop* to enter reaction information
 
+3. If the substance does not exist, you can enter the name of this substance and the second window will appear.
 
+![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/substance_information.png)
 
+Figure 5: Graphical user interface for the *Runaway_hazop* to enter substance information
 
+4. Enter the substance information.
 
+5. You can then close the window.
 
+6. Example of the result:
 
+![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/result_runaway.png)
 
-
-
-
+Figure 5: Example result of *Runaway_hazop*
 
 
 
