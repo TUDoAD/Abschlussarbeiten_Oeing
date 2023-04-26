@@ -10,7 +10,7 @@ Optimization points of automated preHAZOP:
 
 ![HAZOP-Graph](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Automated%20HAZOP%20analysis.png)
 
-Figure 1: Automated HAZOP Analysis Flow Sheet
+<font color=Blue>Figure 1: Automated HAZOP Analysis Flow Sheet</font>
 
 ## Authors:
 ![TU-Do](https://github.com/TUDoAD/preHAZOP/blob/main/figures/TUDO_AD_logo.png)
@@ -65,7 +65,7 @@ graph LR;
 
 ![GUI for Data input](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/GUI_for_integration_RI.png)
 
-Figure 2: Graphical user interface for the *Read_Simu_GraphML*
+<font color=Blue>Figure 2: Graphical user interface for the *Read_Simu_GraphML*</font>
 
 3. Click *Enter data*; if the files exist, the Messenger box will tell you that you can close the window.
 
@@ -88,7 +88,7 @@ Figure 2: Graphical user interface for the *Read_Simu_GraphML*
 
 ![GUI for Data input](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/GUI_for_integration_RI.png)
 
-Figure 3: Graphical user interface for the *Druckraum_Detektion*
+<font color=Blue>Figure 3: Graphical user interface for the *Druckraum_Detektion*</font>
 
 3. The pressure zone results are stored in a new created folder *Druckraum_XX*.
 
@@ -103,7 +103,7 @@ Figure 3: Graphical user interface for the *Druckraum_Detektion*
 
 ![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Guide_for_import_data.png)
 
-Figure 4: MySQL Workbench data import guide
+<font color=Blue>Figure 4: MySQL Workbench data import guide</font>
 
 5. Create a new schema to store your HAZOP results:
 ```sql
@@ -164,13 +164,13 @@ comp_g = nx.read_graphml("./CSTR_Graph_Plus.xml")
 
 ![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/reaction_entry_form.png)
 
-Figure 5: Graphical user interface for the *Runaway_hazop* to enter reaction information
+<font color=Blue>Figure 5: Graphical user interface for the *Runaway_hazop* to enter reaction information</font>
 
 3. If the substance does not exist, you can enter the name of this substance and the second window will appear.
 
 ![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/substance_information.png)
 
-Figure 5: Graphical user interface for the *Runaway_hazop* to enter substance information
+<font color=Blue>Figure 6: Graphical user interface for the *Runaway_hazop* to enter substance information</font>
 
 4. Enter the substance information.
 
