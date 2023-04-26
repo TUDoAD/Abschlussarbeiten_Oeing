@@ -162,7 +162,7 @@ comp_g = nx.read_graphml("./CSTR_Graph_Plus.xml")
 
 2. Enter reaction information.
 
-![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Guide_for_import_data.png)
+![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/reaction_entry_form.png)
 
 Figure 5: Graphical user interface for the *Runaway_hazop* to enter reaction information
 
