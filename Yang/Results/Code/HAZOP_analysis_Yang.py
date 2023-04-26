@@ -548,7 +548,7 @@ for dirpath, dirnames, filenames in os.walk('./'+ Input_Ordner_name):
                     product3_label = tkinter.Label(reaction_frame, text="Product 3")
                     product3_label.grid(row=0, column=10)
                 
-                    Stofflist_combo = ['1,2-Propanediol', '1,3-Butadiene', '1-Butanol', '1-Butene', '2-Propanol', 'Acetic acid', 'Acetic anhydride', 'Acetone', 'Acetylene', 'Acrolein', 'Acrylic acid', 'Adipic acid', 'Ammonia, anhydrous', 'Aniline', 'Benzene', 'Carbon dioxide', 'Carbon monoxide', 'Chlorine', 'Chlorobenzene', 'Chloroform', 'Cumene', 'Cyclohexane', 'Ethanol', 'Ethyl acetate', 'Ethylbenzene', 'Ethylene', 'Ethylene dichloride', 'Ethylene glycol', 'Ethylene oxide', 'Formaldehyde', 'Formic acid', 'Hydrochloric acid solution', 'Hydrogen', 'Hydrogen cyanide', 'Hydrogen peroxide', 'Hydrogen sulfide', 'Mercury', 'Methane', 'Methanol', 'Methyl acetate', 'Methyl chloride', 'Methyl formate', 'Methylene chloride', 'N-butyl acetate', 'Nitrogen', 'Oxygen', 'Phenol', 'Phthalic anhydride', 'Propane', 'Propene', 'Propylene oxide', 'Sodium carbonate', 'Styrene', 'Sulfur', 'Sulfur dioxide', 'Sulfuric acid', 'Toluene', 'Vinyl chloride', 'Water', 'm-Xylene', 'n-Hexane', 'o-Xylene', 'p-Xylene']
+                    Stofflist_combo = ['Acetic acid', 'Acetic anhydride', 'Ethanol', 'Ethylene oxide', 'Hydrogen peroxide', 'Methanol', 'Methyl acetate', 'Sulfuric acid']
                 
                     reactant1_combobox = ttk.Combobox(reaction_frame, values=Stofflist_combo)
                     reactant2_combobox = ttk.Combobox(reaction_frame, values=Stofflist_combo)
