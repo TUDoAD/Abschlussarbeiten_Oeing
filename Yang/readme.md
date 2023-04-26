@@ -194,7 +194,7 @@ $${\color{blue}Figure \space 5: Graphical \space user \space interface \space fo
 
 </p>
 
-$${\color{blue}Figure \space 6: Graphical \space user \space interface \space for \space the \space Runaway_hazop \space to \space enter \space substance \space information}$$
+$${\color{blue}Figure \space 6: Graphical \space user \space interface \space for \space the \space Runaway\text{_}hazop \space to \space enter \space substance \space information}$$
 
 4. Enter the substance information.
 
