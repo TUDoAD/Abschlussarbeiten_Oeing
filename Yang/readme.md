@@ -10,7 +10,7 @@ Optimization points of automated preHAZOP:
 
 ![HAZOP-Graph](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/Automated%20HAZOP%20analysis.png)
 
-<font color=Blue>Figure 1: Automated HAZOP Analysis Flow Sheet</font>
+$${\color{blue}Figure 1: Automated HAZOP Analysis Flow Sheet}$$
 
 ## Authors:
 ![TU-Do](https://github.com/TUDoAD/preHAZOP/blob/main/figures/TUDO_AD_logo.png)
