@@ -73,7 +73,7 @@ graph LR;
 
 </p>
 
-$${\color{blue}Figure \space 2: Graphical \space user \space interface \space for \space the \space Read \spac Simu \space GraphML}$$
+$${\color{blue}Figure \space 2: Graphical \space user \space interface \space for \space the \space Read \space Simu \space GraphML}$$
 
 3. Click *Enter data*; if the files exist, the Messenger box will tell you that you can close the window.
 
@@ -202,9 +202,13 @@ $${\color{blue}Figure \space 6: Graphical \space user \space interface \space fo
 
 6. Example of the result:
 
-![GUI for Data import](https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/result_runaway.png)
+<p align="center">
 
-Figure 5: Example result of *Runaway_hazop*
+  <img src="https://github.com/TUDoAD/Abschlussarbeiten_Oeing/blob/main/Yang/pictures/result_runaway.png">
+
+</p>
+
+$${\color{blue}Figure \space 7: Example \space result \space of \space Runaway \space hazop}$$
 
 
 
