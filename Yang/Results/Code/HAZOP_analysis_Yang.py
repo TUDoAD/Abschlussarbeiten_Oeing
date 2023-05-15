@@ -453,7 +453,7 @@ def enter_data():
                     for row in results:
                         subinfo = [row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8]]
                         print(subinfo)
-                    query_2 = "SELECT Explosive, Flammable, Oxidizing, CompressedGas, Corrosive, Toxic, Harmful, HealthHazard, EnviromenalHazard FROM stoffdaten_copy WHERE Name = %s"
+                    query_2 = "SELECT Explosive, Flammable, Oxidizing, CompressedGas, Corrosive, Toxic, Harmful, HealthHazard, EnviromenalHazard FROM stoffdaten WHERE Name = %s"
                     cursor_1.execute(query_2, (sub,))
                     ghs_name = ["Explosive", "Flammable", "Oxidizing", "CompressedGas", "Corrosive", "Toxic", "Harmful", "Health Hazard", "Enviroment Hazard"]
                     result_ghs = cursor_1.fetchall()
